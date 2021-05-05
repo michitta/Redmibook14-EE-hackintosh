@@ -1,18 +1,18 @@
 #  Redmibook14EE-hackintosh
 
-Tested on redmibook 14 EE i5-10210u
+Протестировано на redmibook 14 EE i5-10210u
 
-***Make Sure to Change SMBIOS from config.plist***
+***Чтобы работали сервисы Apple, нужно поменять SMBIOS в config.plist***
 
-## Contents
+## Содержание
 
-- [[SUCCESS] Xiaomi-Notebook14-Hackintosh](#success-xiaomi-notebook14-hackintosh)
-  - [Contents](#contents)
-  - [Configuration](#configuration)
-  - [Current Status](#current-status)
+- [[SUCCESS] Redmibook 14 EE]
+  - [Содержание](#cодержание)
+  - [Конфигурация](#конфигурация)
+  - [Текущий статус](#текущий-статус)
   - [Credits](#credits)
 
-## Configuration
+## Конфигурация
 
 | Specifications      | Detail                                              |
 | ------------------- | --------------------------------------------------- |
@@ -26,17 +26,10 @@ Tested on redmibook 14 EE i5-10210u
 | Wireless Card       | Intel Wireless 9462                                 |
 | Touchpad            | I2C ELAN2304                                        |
 
-## Current Status
-> ### OpenCore 0.6.7 
- 
-- WIFI/Bluetooth Works 
-- Audio Works
-- Headphone Mic Works **Refer in improvement section**
-- **Internal Mic Not Working**
-- Power Management works (Battery last for about 5-6 hours)
-- Touchpad Gestures Works
-- HW acceleration enabled
-- **Discrete graphic card** is not supported
+## Текущий статус
+> ### OpenCore 0.6.7
+- **Встроенный и внешние микрофоны не работают**
+- **Дискретная графика** не поддерживается
 
 
 ## Credits
