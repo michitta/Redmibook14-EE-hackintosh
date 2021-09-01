@@ -28,6 +28,18 @@
 
 ## Текущий статус
 
+```md
+✅  : Полностью работает
+
+🟢  : Нужны танцы с бубнами для полной функциональности.
+
+🟡  : Работает, но так себе.
+
+❌  : Не работает.
+
+🤷‍♂️ : Не проверялось.
+```
+
 | Components\OS     | BigSur |
 | ----------------- | :----: |
 | Touchpad/Gestures |   ✅    |
@@ -43,17 +55,6 @@
 | Brightness Key    |   ✅    |
 | Hibernation       |   🤷‍♂️    |
 
-```md
-✅  : Working out of the box
-
-🟢  : Some additional steps required to make it work
-
-🟡  : Working but not perfectly i.e buggy currently
-
-❌  : Not working currently
-
-🤷‍♂️ : Haven't tested properly yet
-```
 
 ## Credits
 - Огромное спасибо [uttusharma](https://github.com/uttusharma) за предоставление [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh). Только благодаря ему, я смог завести osx на Redmibook 14 EE.
