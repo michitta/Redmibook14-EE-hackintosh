@@ -48,7 +48,7 @@
 
 ## Credits
 
-| **Огромное спасибо [uttusharma](https://github.com/uttusharma) за предоставление [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).**
+:----: **Огромное спасибо [uttusharma](https://github.com/uttusharma) за предоставление [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).**
 
 - **Special Thanks to [daliansky](https://github.com/daliansky) for providing [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)**.
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC), [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg), [HibernationFixup](https://github.com/acidanthera/HibernationFixup), [Lilu](https://github.com/acidanthera/Lilu), [NVMeFix](https://github.com/acidanthera/NVMeFix), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC), [VoodooInput](https://github.com/acidanthera/VoodooInput), [VoodooPS2](https://github.com/acidanthera/VoodooPS2), and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).
