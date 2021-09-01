@@ -27,10 +27,33 @@
 | Touchpad            | I2C ELAN2304                                        |
 
 ## Текущий статус
-> ### OpenCore 0.6.7
-- **Встроенный и внешние микрофоны не работают**
-- **Дискретная графика** не поддерживается
 
+| Components\OS     | BigSur |
+| ----------------- | :----: |
+| Touchpad/Gestures |   ✅    |
+| Keyboard          |   ✅    |
+| Audio             |   🟢    |
+| Microphone        |   🟢    |
+| Wifi              |   ✅    |
+| Bluetooth         |   ✅    |
+| Sleep/Wake        |   ✅    |
+| Power Management  |   ✅    |
+| Graphic Acc.      |   ✅    |
+| Backlight         |   ✅    |
+| Brightness Key    |   ✅    |
+| Hibernation       |   🤷‍♂️    |
+
+```md
+✅  : Working out of the box
+
+🟢  : Some additional steps required to make it work
+
+🟡  : Working but not perfectly i.e buggy currently
+
+❌  : Not working currently
+
+🤷‍♂️ : Haven't tested properly yet
+```
 
 ## Credits
 - Огромное спасибо [uttusharma](https://github.com/uttusharma) за предоставление [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh). Только благодаря ему, я смог завести osx на Redmibook 14 EE.
