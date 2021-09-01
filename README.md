@@ -1,27 +1,17 @@
-#  Redmibook14EE-hackintosh
-
-Протестировано на redmibook 14 EE i5-10210u
+#  Redmibook14EE (i5-10210u) hackintosh big sur
 
 ***Чтобы работали сервисы Apple, нужно поменять SMBIOS в config.plist***
-
-## Содержание
-
-- [SUCCESS] Redmibook 14 EE]
-  - [Содержание](#cодержание)
-  - [Конфигурация](#конфигурация)
-  - [Текущий статус](#текущий-статус)
-  - [Credits](#credits)
 
 ## Конфигурация
 
 | Specifications      | Detail                                              |
 | ------------------- | --------------------------------------------------- |
 | Computer model      | Redmibook 14 Enchanted Edition (MX250)              |
-| Processor           | Intel Core i5-10210U/i7 Processor                   |
-| Memory              | 8GB/16GB Samsung DDR4 2400MHz                       |
-| Hard Disk           | Samsung NVMe SSD Controller                         |
+| Processor           | Intel Core i5-10210U                                |
+| Memory              | 8GB Samsung DDR4 2666MHz                            |
+| Hard Disk           | Samsung NVMe                                        |
 | Integrated Graphics | Intel UHD Graphics 630                              |
-| Monitor             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch)          |
+| Monitor             | BOE FHD 1920x1080 (15.6 inch)                       |
 | Sound Card          | Realtek ALC256                                      |
 | Wireless Card       | Intel Wireless 9462                                 |
 | Touchpad            | I2C ELAN2304                                        |
