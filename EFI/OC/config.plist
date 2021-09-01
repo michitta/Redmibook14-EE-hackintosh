@@ -773,7 +773,7 @@
 				<key>hda-idle-support</key>
 				<string>1</string>
 				<key>layout-id</key>
-				<integer>70</integer>
+				<integer>88</integer>
 				<key>model</key>
 				<string>Intel Sunrise Point-LP HD Audio</string>
 				<key>name</key>
