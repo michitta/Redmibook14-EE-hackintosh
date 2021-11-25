@@ -1,6 +1,9 @@
 #  Redmibook14EE (i5-10210u) hackintosh big sur
 
 ***Чтобы работали сервисы Apple, нужно поменять SMBIOS в config.plist***
+Ну вообще это по сути скопированный проект uttusharma, но для простоты тем, кто вообще не шарит, я вот его назвал по-другому и немного модифицировал.
+Если uttusharma это читает, то надеюсь твоя озадаченность этим проектом проявилась не из-за нарушения авторских прав.
+А вот и ссылочка на него [uttusharma](https://github.com/uttusharma) и на его проект [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).
 
 ## Конфигурация
 
