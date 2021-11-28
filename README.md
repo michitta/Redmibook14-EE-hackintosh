@@ -1,27 +1,41 @@
-#  Redmibook14EE (i5-10210u) hackintosh big sur
+#  Redmibook 14 EE (Enhanced edition) Hackintosh
 
-***Чтобы работали сервисы Apple, нужно поменять SMBIOS в config.plist***
+```md
+Проект создан только в образовательных целях!
+```
 
-Ну вообще это по сути скопированный проект uttusharma, но для простоты тем, кто вообще не шарит, я вот его назвал по-другому и немного модифицировал.
-Если uttusharma это читает, то надеюсь твоя озадаченность этим проектом проявилась не из-за нарушения авторских прав.
+Автором данного загрузчика является [uttusharma](https://github.com/uttusharma) и он скопирован отсюда [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).
 
-А вот и ссылочка на [uttusharma](https://github.com/uttusharma) и на его проект [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).
+## Конфигурация ноутбука
 
-## Конфигурация
-
-| Specifications      | Detail                                              |
+| Спецификации        | Детали                                              |
 | ------------------- | --------------------------------------------------- |
 | Computer model      | Redmibook 14 Enchanted Edition (MX250)              |
-| Processor           | Intel Core i5-10210U                                |
-| Memory              | 8GB Samsung DDR4 2666MHz                            |
-| Hard Disk           | Samsung NVMe                                        |
-| Integrated Graphics | Intel UHD Graphics 630                              |
-| Monitor             | BOE FHD 1920x1080 (15.6 inch)                       |
-| Sound Card          | Realtek ALC256                                      |
-| Wireless Card       | Intel Wireless 9462                                 |
+| Процессор           | Intel Core i5-10210U                                |
+| Оперативка              | 8GB Samsung DDR4 2666MHz                            |
+| Жёсткий диск           | Samsung NVMe                                        |
+| Встроенная графика | Intel UHD Graphics 630                              |
+| Экран             | BOE FHD 1920x1080 (15.6 inch)                       |
+| Звуковая карта          | Realtek ALC256                                      |
+| WIFI+BT       | Intel Wireless 9462                                 |
 | Touchpad            | I2C ELAN2304                                        |
 
 ## Текущий статус
+
+| Components\OS     | BigSur | Monterey |
+| ----------------- | :----: | :-----------: |
+| Touchpad/Gestures |   ✅    |       ✅       |
+| Keyboard          |   ✅    |       ✅       |
+| Audio             |   🟢    |       🟢       |
+| Internal Microphone  |   ❌    |       ❌       |
+| Wifi              |   ✅    |       ✅       |
+| Bluetooth         |   ✅    |       ❌       |
+| Sleep/Wake        |   🟨    |       🟨       |
+| Power Management  |   ✅    |       ✅       |
+| Graphic Acc.      |   ✅    |       ✅       |
+| Backlight         |   ✅    |       ✅       |
+| Brightness Key    |   ✅    |       ✅       |
+| Hibernation       |   🤷‍♂️    |       ❌       |
 
 ```md
 ✅  : Полностью работает
@@ -35,23 +49,8 @@
 🤷‍♂️  : Не проверялось.
 ```
 
-| Components\OS     | BigSur |
-| ----------------- | :----: |
-| Touchpad/Gestures |   ✅    |
-| Keyboard          |   ✅    |
-| Audio             |   🟢    |
-| Microphone        |   🟢    |
-| Wifi              |   ✅    |
-| Bluetooth         |   ✅    |
-| Sleep/Wake        |   ✅    |
-| Power Management  |   ✅    |
-| Graphic Acc.      |   ✅    |
-| Backlight         |   ✅    |
-| Brightness Key    |   ✅    |
-| Hibernation       |   🤷‍♂️    |
 
-
-## Credits
+## Благодарности
 
 - **Огромное спасибо [uttusharma](https://github.com/uttusharma) за предоставление [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).**
 - **Special Thanks to [daliansky](https://github.com/daliansky) for providing [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)**.
