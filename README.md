@@ -11,11 +11,11 @@
 | Спецификации        | Детали                                              |
 | ------------------- | --------------------------------------------------- |
 | Computer model      | Redmibook 14 Enchanted Edition (MX250)              |
-| Процессор           | Intel Core i5-10210U                                |
+| Процессор           | [Intel Core i5-10210U](https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz.html)                                |
 | Оперативка              | 8GB Samsung DDR4 2666MHz                            |
 | Жёсткий диск           | Samsung NVMe                                        |
-| Встроенная графика | Intel UHD Graphics 620                              |
-| Экран             | BOE FHD 1920x1080 (15.6 inch)                       |
+| Встроенная графика | Intel UHD Graphics 10th Gen, NVIDIA MX250                              |
+| Экран             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch)                      |
 | Звуковая карта          | Realtek ALC256                                      |
 | WIFI+BT       | Intel Wireless 9462                                 |
 | Touchpad            | I2C ELAN2304                                        |
