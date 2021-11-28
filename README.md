@@ -14,7 +14,7 @@
 | Процессор           | Intel Core i5-10210U                                |
 | Оперативка              | 8GB Samsung DDR4 2666MHz                            |
 | Жёсткий диск           | Samsung NVMe                                        |
-| Встроенная графика | Intel UHD Graphics 630                              |
+| Встроенная графика | Intel UHD Graphics 620                              |
 | Экран             | BOE FHD 1920x1080 (15.6 inch)                       |
 | Звуковая карта          | Realtek ALC256                                      |
 | WIFI+BT       | Intel Wireless 9462                                 |
