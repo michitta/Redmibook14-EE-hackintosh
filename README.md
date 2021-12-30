@@ -4,8 +4,6 @@
 Проект создан только в образовательных целях!
 ```
 
-Автором данного загрузчика является [uttusharma](https://github.com/uttusharma) и он скопирован отсюда [Xiaomi-Notebook14-Hackintosh](https://github.com/uttusharma/Xiaomi-Notebook14-Hackintosh).
-
 ## Конфигурация ноутбука
 
 | Спецификации        | Детали                                              |
