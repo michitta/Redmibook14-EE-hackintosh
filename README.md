@@ -27,13 +27,13 @@
 | Audio             |   🟢    |       🟢       |
 | Internal Microphone  |   ❌    |       ❌       |
 | Wifi              |   ✅    |       ✅       |
-| Bluetooth         |   ✅    |       ❌       |
-| Sleep/Wake        |   🟨    |       🟨       |
+| Bluetooth         |   ✅    |       ✅       |
+| Sleep/Wake        |   🟨    |       ✅       |
 | Power Management  |   ✅    |       ✅       |
 | Graphic Acc.      |   ✅    |       ✅       |
 | Backlight         |   ✅    |       ✅       |
 | Brightness Key    |   ✅    |       ✅       |
-| Hibernation       |   🤷‍♂️    |       ❌       |
+| Hibernation       |   🤷‍♂️    |       🤷‍♂️       |
 
 ```md
 ✅  : Полностью работает
