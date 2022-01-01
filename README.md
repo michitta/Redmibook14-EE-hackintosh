@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/17436886/147762919-877a42db-3044-405c-a820-690220cec582.png
+
 #  Redmibook 14 EE (Enhanced edition) Hackintosh
 
 ```md
