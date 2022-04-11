@@ -30,7 +30,7 @@
 | Internal Microphone  |   ❌    |       ❌       |
 | Wifi              |   ✅    |       ✅       |
 | Bluetooth         |   ✅    |       ✅       |
-| Sleep/Wake        |   🟨    |       ✅       |
+| Sleep/Wake        |   ✅    |       ✅       |
 | Power Management  |   ✅    |       ✅       |
 | Graphic Acc.      |   ✅    |       ✅       |
 | Backlight         |   ✅    |       ✅       |
