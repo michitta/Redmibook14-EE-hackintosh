@@ -3,20 +3,20 @@
 #  Redmibook 14 EE (Enhanced edition) Hackintosh
 
 ```md
-Проект создан только в образовательных целях!
+Only for education!
 ```
 
-## Конфигурация ноутбука
+## Configuaration
 
-| Спецификации        | Детали                                              |
+| Components        | More information                                              |
 | ------------------- | --------------------------------------------------- |
 | Computer model      | Redmibook 14 Enchanted Edition (MX250)              |
-| Процессор           | [Intel Core i5-10210U](https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz.html)                                |
-| Оперативка              | 8GB Samsung DDR4 2666MHz                            |
-| Жёсткий диск           | Samsung NVMe                                        |
-| Встроенная графика | Intel UHD Graphics 10th Gen, NVIDIA MX250                              |
-| Экран             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch)                      |
-| Звуковая карта          | Realtek ALC256                                      |
+| Processor           | [Intel Core i5-10210U](https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i510210u-processor-6m-cache-up-to-4-20-ghz.html)                                |
+| RAM              | 8GB Samsung DDR4 2666MHz                            |
+| SSD           | Samsung NVMe                                        |
+| IGPU | Intel UHD Graphics 10th Gen, NVIDIA MX250                              |
+| Display             | BOE NV156FHM-N61 FHD 1920x1080 (15.6 inch)                      |
+| Audio          | Realtek ALC256                                      |
 | WIFI+BT       | Intel Wireless 9462                                 |
 | Touchpad            | I2C ELAN2304                                        |
 
@@ -29,7 +29,7 @@
 | Audio             |   🟢    |       🟢       |
 | Internal Microphone  |   ❌    |       ❌       |
 | Wifi              |   ✅    |       ✅       |
-| Bluetooth         |   ✅    |       ✅       |
+| Bluetooth         |   ✅    |       ❌       |
 | Sleep/Wake        |   ✅    |       ✅       |
 | Power Management  |   ✅    |       ✅       |
 | Graphic Acc.      |   ✅    |       ✅       |
