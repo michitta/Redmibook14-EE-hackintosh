@@ -26,7 +26,7 @@ Only for education!
 | ----------------- | :----: | :-----------: |
 | Touchpad/Gestures |   ✅    |       ✅       |
 | Keyboard          |   ✅    |       ✅       |
-| Audio             |   🟢    |       🟢       |
+| Audio             |   ✅    |       ✅       |
 | Internal Microphone  |   ❌    |       ❌       |
 | Wifi              |   ✅    |       ✅       |
 | Bluetooth         |   ✅    |       ❌       |
@@ -38,15 +38,13 @@ Only for education!
 | Hibernation       |   ✅    |       ❌       |
 
 ```md
-✅  : Полностью работает
+✅  : Fully works.
 
-🟢  : Нужны танцы с бубнами для полной функциональности.
+🟡  : It doesn't work well.
 
-🟡  : Работает, но так себе.
+❌  : Not working.
 
-❌  : Не работает.
-
-🤷‍♂️  : Не проверялось.
+🤷‍♂️  : I don`t no. I don`t checked it.
 ```
 
 
