@@ -22,20 +22,20 @@ Only for education!
 
 ## Текущий статус
 
-| Components\OS     | BigSur | Monterey |
+| Components\OS     | BigSur | Monterey 12.4 beta |
 | ----------------- | :----: | :-----------: |
 | Touchpad/Gestures |   ✅    |       ✅       |
 | Keyboard          |   ✅    |       ✅       |
 | Audio             |   ✅    |       ✅       |
 | Internal Microphone  |   ❌    |       ❌       |
 | Wifi              |   ✅    |       ✅       |
-| Bluetooth         |   ✅    |       ❌       |
+| Bluetooth         |   ✅    |       ✅       |
 | Sleep/Wake        |   ✅    |       ✅       |
 | Power Management  |   ✅    |       ✅       |
 | Graphic Acc.      |   ✅    |       ✅       |
 | Backlight         |   ✅    |       ✅       |
 | Brightness Key    |   ✅    |       ✅       |
-| Hibernation       |   ✅    |       ❌       |
+| Hibernation       |   🟡    |       🟡       |
 
 ```md
 ✅  : Fully works.
