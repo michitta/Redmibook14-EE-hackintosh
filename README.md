@@ -35,7 +35,7 @@ Only for education!
 | Graphic Acc.      |   ✅    |       ✅       |
 | Backlight         |   ✅    |       ✅       |
 | Brightness Key    |   ✅    |       ✅       |
-| Hibernation       |   🟡    |       🟡       |
+| Hibernation       |   🟡    |       ✅       |
 
 ```md
 ✅  : Fully works.
