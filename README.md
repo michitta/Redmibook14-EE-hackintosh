@@ -1,4 +1,4 @@
-![Frame 20](https://user-images.githubusercontent.com/17436886/162813233-953e21ab-afc7-456f-9b9b-15e32673fc1e.png)
+![Frame 20](https://user-images.githubusercontent.com/17436886/164795823-fa4519ef-5d22-49ee-ae14-21a49ea26701.png)
 
 #  Redmibook 14 EE (Enhanced edition) Hackintosh
 
