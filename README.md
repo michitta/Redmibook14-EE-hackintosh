@@ -4,8 +4,9 @@
 
 ```md
 Only for education!
-Сборка сделана на основе [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 ```
+
+Сборка сделана на основе [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 
 ## Configuaration
 
