@@ -6,10 +6,6 @@
 Only for education!
 ```
 
-
-Сижу жду intel wifi kext на mac os 13... А так вроде всё работает
-
-
 Сборка сделана на основе [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 
 ## Configuaration
