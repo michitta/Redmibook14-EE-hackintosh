@@ -1,5 +1,3 @@
-#  Redmibook 14 Enhanced Edition (Intel 10th gen) Hackintosh
-
 ![bireytura](https://user-images.githubusercontent.com/17436886/188320518-2f1b69d1-ff6f-472f-883d-8818d968c5ca.png)
 
 ```md
