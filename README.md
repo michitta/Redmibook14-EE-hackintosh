@@ -6,8 +6,6 @@
 Only for education!
 ```
 
-Сборка сделана на основе [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
-
 ## Configuaration
 
 | Components        | More information                                              |
