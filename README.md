@@ -42,9 +42,6 @@
 | Brightness Key       |   ✅   |   ✅   |   ✅   |
 | Hibernation          |   🟡   |   🤷‍♂️   |   🤷‍♂️   |
 
-
-
-
 ## 💁 Credits
 
 - **Special Thanks [daliansky](https://github.com/daliansky) for providing [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)**.
