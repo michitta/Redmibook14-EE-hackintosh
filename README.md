@@ -1,6 +1,6 @@
-![Frame 20](https://user-images.githubusercontent.com/17436886/164795823-fa4519ef-5d22-49ee-ae14-21a49ea26701.png)
+![bireytura](https://user-images.githubusercontent.com/17436886/188320518-2f1b69d1-ff6f-472f-883d-8818d968c5ca.png)
 
-#  Redmibook 14 EE (Enhanced edition) Hackintosh
+#  Redmibook 14 Enhanced Edition (Intel 10th gen) Hackintosh
 
 ```md
 Only for education!
