@@ -1,4 +1,5 @@
-![bireytura](https://user-images.githubusercontent.com/17436886/188320518-2f1b69d1-ff6f-472f-883d-8818d968c5ca.png)
+![image](https://user-images.githubusercontent.com/17436886/204576076-3acc41cf-a132-4b8b-a585-09d7cf525817.png)
+![image](https://user-images.githubusercontent.com/17436886/204576123-74f910a0-5f7e-4cb4-bd9d-a3aeb918700d.png)
 
 ## ⚙️ Configuaration
 
