@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/17436886/204576076-3acc41cf-a132-4b8b-a585-09d7cf525817.png)
-
-![image](https://user-images.githubusercontent.com/17436886/204577374-bc85a8ce-8470-40b7-a36a-611979705b6f.png)
+![image](https://user-images.githubusercontent.com/17436886/211836411-795dde8c-aceb-4442-8f2b-fa4cbd294af1.png)
 
 ## ⚙️ Configuaration
 
