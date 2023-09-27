@@ -27,20 +27,20 @@
 🤷‍♂️  : I don`t checked it.
 ```
 
-| Components\OS        | BigSur | Monterey | Ventura |
-| -----------------    | :-----: | :-----: | :-----: |
-| Touchpad/Gestures    |   ✅   |   ✅   |   ✅   |
-| Keyboard             |   ✅   |   ✅   |   ✅   |
-| Audio                |   ✅   |   ✅   |   ✅   |
-| Internal Microphone  |   ❌   |   ❌   |   ❌   |
-| Wifi                 |   ✅   |   ✅   |   ✅   |
-| Bluetooth            |   ✅   |   🟡   |   🟡   |
-| Sleep/Wake           |   ✅   |   🤷‍♂️   |   🤷‍♂️   |
-| Power Management     |   ✅   |   ✅   |   ✅   |
-| Graphic Acc.         |   ✅   |   ✅   |   ✅   |
-| Backlight            |   ✅   |   ✅   |   ✅   |
-| Brightness Key       |   ✅   |   ✅   |   ✅   |
-| Hibernation          |   🟡   |   🤷‍♂️   |   🤷‍♂️   |
+| Components\OS        | BigSur | Monterey | Ventura | Sonoma |
+| -----------------    | :-----: | :-----: | :-----: | :-----: |
+| Touchpad/Gestures    |   ✅   |   ✅   |   ✅   |   ✅   |
+| Keyboard             |   ✅   |   ✅   |   ✅   |   ✅   |
+| Audio                |   ✅   |   ✅   |   ✅   |   ✅   |
+| Internal Microphone  |   ❌   |   ❌   |   ❌   |   ❌   |
+| Wifi                 |   ✅   |   ✅   |   ✅   |   ✅   |
+| Bluetooth            |   ✅   |   ✅   |   ✅   |   ✅   |
+| Sleep/Wake           |   ✅   |   ✅   |   ✅   |   ✅   |
+| Power Management     |   ✅   |   ✅   |   ✅   |   ✅   |
+| Graphic Acc.         |   ✅   |   ✅   |   ✅   |   ✅   |
+| Backlight            |   ✅   |   ✅   |   ✅   |   ✅   |
+| Brightness Key       |   ✅   |   ✅   |   ✅   |   ✅   |
+| Hibernation          |   🤷‍♂️   |   🤷‍♂️   |   🤷‍♂️   |   🤷‍♂️   |
 
 ## 💁 Credits
 
