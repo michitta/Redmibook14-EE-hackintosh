@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/17436886/211836411-795dde8c-aceb-4442-8f2b-fa4cbd294af1.png)
+![image](https://github.com/michitta/Redmibook14-EE-hackintosh/assets/17436886/f91fd9c3-032f-4f7b-a8d3-b21811963f2b)
 
 ## ⚙️ Configuaration
 
