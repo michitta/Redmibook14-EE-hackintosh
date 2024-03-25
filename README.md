@@ -1,3 +1,6 @@
+# Notice
+I am no longer developing this EFI. I bought myself another laptop, which will not be able to get a mac OS 😢
+
 ![image](https://github.com/michitta/Redmibook14-EE-hackintosh/assets/17436886/f91fd9c3-032f-4f7b-a8d3-b21811963f2b)
 
 ## ⚙️ Configuaration
